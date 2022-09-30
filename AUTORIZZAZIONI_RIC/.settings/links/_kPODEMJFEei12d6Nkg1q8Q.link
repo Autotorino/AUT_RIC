@@ -1,0 +1,115 @@
+{
+  "itemId" : "_kPODEMJFEei12d6Nkg1q8Q",
+  "contextList" : [ {
+    "contextName" : "prod",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_LjujAUDXEe2iW5HDaFEvEw",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_LjujAkDXEe2iW5HDaFEvEw",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_LjujA0DXEe2iW5HDaFEvEw",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_LjujBEDXEe2iW5HDaFEvEw",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_LjujBUDXEe2iW5HDaFEvEw",
+      "name" : "SIPADX_DB_Username"
+    }, {
+      "id" : "_LjujBkDXEe2iW5HDaFEvEw",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_LjujB0DXEe2iW5HDaFEvEw",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_LjujCEDXEe2iW5HDaFEvEw",
+      "name" : "SMTP_DEST"
+    }, {
+      "id" : "_LjujCUDXEe2iW5HDaFEvEw",
+      "name" : "SMTP_HOST"
+    }, {
+      "id" : "_LjujCkDXEe2iW5HDaFEvEw",
+      "name" : "SMTP_PORT"
+    }, {
+      "id" : "_LjujC0DXEe2iW5HDaFEvEw",
+      "name" : "MAIL_NOTIFY"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_u085MXeBEeuJ-LzHouEb6w",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_u085MneBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_u085M3eBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_u085NHeBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_u085NXeBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Username"
+    }, {
+      "id" : "_u085NneBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_u085N3eBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_u085OHeBEeuJ-LzHouEb6w",
+      "name" : "SMTP_DEST"
+    }, {
+      "id" : "_u085OXeBEeuJ-LzHouEb6w",
+      "name" : "SMTP_HOST"
+    }, {
+      "id" : "_u085OneBEeuJ-LzHouEb6w",
+      "name" : "SMTP_PORT"
+    }, {
+      "id" : "_u085O3eBEeuJ-LzHouEb6w",
+      "name" : "MAIL_NOTIFY"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_u085SXeBEeuJ-LzHouEb6w",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_u085SneBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_u085S3eBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_u085THeBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_u085TXeBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Username"
+    }, {
+      "id" : "_u085TneBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_u085T3eBEeuJ-LzHouEb6w",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_u085UHeBEeuJ-LzHouEb6w",
+      "name" : "SMTP_DEST"
+    }, {
+      "id" : "_u085UXeBEeuJ-LzHouEb6w",
+      "name" : "SMTP_HOST"
+    }, {
+      "id" : "_u085UneBEeuJ-LzHouEb6w",
+      "name" : "SMTP_PORT"
+    }, {
+      "id" : "_u085U3eBEeuJ-LzHouEb6w",
+      "name" : "MAIL_NOTIFY"
+    } ]
+  } ]
+}
