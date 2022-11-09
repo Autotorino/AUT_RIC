@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ProcessType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" defaultContext="Default" jobType="Standard" xmi:version="2.0">
   <context confirmationNeeded="false" name="prod">
-    <contextParameter comment="" internalId="_8cfBoEDXEe2iW5HDaFEvEw" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="\\srvdati\dati\CONDIVISI\Pontiggia\Autorizzazioni_ric\Dati"/>
+    <contextParameter comment="" internalId="_8cfBoEDXEe2iW5HDaFEvEw" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="\\\\srvdati\\dati\\CONDIVISI\\Pontiggia\\Autorizzazioni_ric\\Dati"/>
     <contextParameter comment="" internalId="_8cfBoUDXEe2iW5HDaFEvEw" name="SIPADX_DB_Server" prompt="SIPADX_DB_Server?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="192.168.1.113"/>
     <contextParameter comment="" internalId="_8cfBokDXEe2iW5HDaFEvEw" name="SIPADX_DB_Port" prompt="SIPADX_DB_Port?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="5432"/>
     <contextParameter comment="" internalId="_8cfBo0DXEe2iW5HDaFEvEw" name="SIPADX_DB_Database" prompt="SIPADX_DB_Database?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="sipadx"/>
     <contextParameter comment="" internalId="_8cfBpEDXEe2iW5HDaFEvEw" name="SIPADX_DB_Username" prompt="SIPADX_DB_Username?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="userread"/>
-    <contextParameter comment="" internalId="_8cfBpUDXEe2iW5HDaFEvEw" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:KQsO4lQWBiovdOzmXx9j3khVlkVMD8OmsQOMsK18pbpg3KEr"/>
+    <contextParameter comment="" internalId="_8cfBpUDXEe2iW5HDaFEvEw" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:EoEQy4TOpVAY15T2+XTWvZazKg/5XTdhf5tJ+jtZNUEXDqyo"/>
     <contextParameter comment="" internalId="_8cfBpkDXEe2iW5HDaFEvEw" name="SIPADX_DB_Schema" prompt="SIPADX_DB_Schema?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="public"/>
     <contextParameter comment="" internalId="_8cfBp0DXEe2iW5HDaFEvEw" name="SMTP_DEST" prompt="SMTP_DEST?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="supportobi@autotorino.it"/>
     <contextParameter comment="" internalId="_8cfBqEDXEe2iW5HDaFEvEw" name="SMTP_HOST" prompt="SMTP_HOST?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="smtp.autotorino.local"/>
@@ -13,7 +13,7 @@
     <contextParameter comment="" internalId="_8cfBqkDXEe2iW5HDaFEvEw" name="MAIL_NOTIFY" prompt="MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="true"/>
   </context>
   <context confirmationNeeded="false" name="dev">
-    <contextParameter comment="" internalId="_8cfBq0DXEe2iW5HDaFEvEw" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="\\srvdati\dati\CONDIVISI\Pontiggia\Autorizzazioni_ric\Dati"/>
+    <contextParameter comment="" internalId="_8cfBq0DXEe2iW5HDaFEvEw" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="\\\\srvdati\\dati\\CONDIVISI\\Pontiggia\\Autorizzazioni_ric\\Dati"/>
     <contextParameter comment="" internalId="_8cfBrEDXEe2iW5HDaFEvEw" name="SIPADX_DB_Server" prompt="SIPADX_DB_Server?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="999.99.999.99"/>
     <contextParameter comment="" internalId="_8cfBrUDXEe2iW5HDaFEvEw" name="SIPADX_DB_Port" prompt="SIPADX_DB_Port?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="5432"/>
     <contextParameter comment="" internalId="_8cfBrkDXEe2iW5HDaFEvEw" name="SIPADX_DB_Database" prompt="SIPADX_DB_Database?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="sipadx"/>
@@ -31,7 +31,7 @@
     <contextParameter comment="" internalId="_8cfBuEDXEe2iW5HDaFEvEw" name="SIPADX_DB_Port" prompt="SIPADX_DB_Port?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="5432"/>
     <contextParameter comment="" internalId="_8cfBuUDXEe2iW5HDaFEvEw" name="SIPADX_DB_Database" prompt="SIPADX_DB_Database?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="sipadx"/>
     <contextParameter comment="" internalId="_8cfBukDXEe2iW5HDaFEvEw" name="SIPADX_DB_Username" prompt="SIPADX_DB_Username?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="userread"/>
-    <contextParameter comment="" internalId="_8cfBu0DXEe2iW5HDaFEvEw" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:fP8Fc2Jc7fh+f+k174Oa33P6yiWrxvjjK/YizKFFYMHXZWN9"/>
+    <contextParameter comment="" internalId="_8cfBu0DXEe2iW5HDaFEvEw" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:TFt1opRX8HqgbfFO0LZ48rI5VkGZdR0aAh5KD2G1sLDn+bjh"/>
     <contextParameter comment="" internalId="_8cfBvEDXEe2iW5HDaFEvEw" name="SIPADX_DB_Schema" prompt="SIPADX_DB_Schema?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="public"/>
     <contextParameter comment="" internalId="_8cfBvUDXEe2iW5HDaFEvEw" name="SMTP_DEST" prompt="SMTP_DEST?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="supportobi@autotorino.it"/>
     <contextParameter comment="" internalId="_8cfBvkDXEe2iW5HDaFEvEw" name="SMTP_HOST" prompt="SMTP_HOST?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="smtp.autotorino.local"/>
@@ -81,7 +81,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:IbKTY4B4IEuVtdINgdoIwQj3FHKt8gc1ewOoJ5LP"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:hbjHzdclOIIyfz26UqJbAlSG/Pgr6KVuw4FxcvUx"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -116,7 +116,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:/7EF+ZEAUAcGWhl3ufZeSa+b+z8bcrOci2yXCDTi"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:8qVLBT2uO+ZvFt582YPf7G2Dh2iDm4OmCzu2PvoP"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -157,7 +157,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.SIPADX_DB_Database"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="context.SIPADX_DB_Schema"/>
     <elementParameter field="TEXT" name="USER" value="context.SIPADX_DB_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:UqwWQ02tv/e6Zf+p8E/BCdryESJGZo5PlV3OZv+a5428IIO8dTnHWFfnWPTPNQ2BBGRgCynF"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:kaYJoTmeYLs0dI/vRvGZ+ILd1hRtRhW6A9pPas/REPn+FVCnxxf6sv87MgtB1zC/7e874rjW"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
@@ -318,13 +318,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="0;255;0"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_0684ba82-bd6b-4d01-8c8b-7d045d3a5d09"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>KngVsL5Yd2R7UeU7PRnPZL+Z5tlhOvxSeTeXlyrJ+EVL498gLoiqOcVc+6n3tqqk+xHm5LR5HoPr&#13;
-mLiukwpfVw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_b8a4c9c6-7d56-4f64-87b6-1735e94512f1"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>MO9aO2E6iEgQZ4ppSykIUrIf4maQb+dAgoruFGdXAQ/wRXDp3Zq+5r1GyEUecebFU9aG6UBjZcU2&#13;
-PUwolgEO9Q==</DigestValue></Reference></SignedInfo><SignatureValue>YjxRp0Zcl+nOxUrUxS9LDl2I6tWkKy6sJKZbCdiR+diZwmI5xWQKIhrWFamblPbj0r+IxxYJ1jQ2&#13;
-55dYNZSZhY5RDooOtPpSEp3nqmm0CmvJzOd2owZTctAFJZDMjV1J6RT0erKgU1SpDTpTyl4zmCv1&#13;
-88qYhPLQEaCd9oPx0FmbDfWgdQj+tFTXT0Pe3F4pPgboNtVu4RCqaShfmfH1d5e5x2VnePw49bO8&#13;
-TdSkm1oZrD98Carm47UhQfk/DazgCidZUZ2GCBnAMKB1L9BXm1oeKyWFVkacisnUQt6k2kVEjv8c&#13;
-hKwAgANqKl1OisW0ybYiiDNXaiH3HclE62TZhQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_bd8ad1cd-8e09-4e6c-a25d-1ba56e6e149f"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>X6FmsEptmOUwVv/XML05sqD/qDWwKuzxBaVSZAkXonGS5N7l1QmKve9stbWBUOgj02mKnGEDQd3Q&#13;
+M+A/4MhGmg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_ccfa6371-e318-4b49-a7cd-bbd6994226a1"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>6UAte3r176iSCDNamEQA/jAK5vvkNyUt7scxUPBbSsij9Hb3bpqicfxOHxfom1Aed6QfMeaXVJdU&#13;
+IphvbJMTFQ==</DigestValue></Reference></SignedInfo><SignatureValue>LiyNr+RrJYXLy86Ov7v5cISSdCPOVdhQDr1UuzxTNCAhcjdB+ON0UV5tqsMfRQqN86lhIaAkTm3V&#13;
+4huw5EG2q3CRQVoJeNJ6MP47ecmPkuTHlkDwb0IkngKtuJpbnc3mbEcm+zhBpsxLaRdjRlP0IWFs&#13;
+K3MbKGDewm1VdYXhVmlKT9JkEclqXDFWd7nnq9JgkQXkI5Pklj7JOd0om4tFNMe4p4JJLk4ZaLT5&#13;
+vIwrTE44hmZLFRoXGtB0HT4POduV2hjCSz4R4VA3IC8OKzQfjfO+8k9pLRCY3JqMndMZ5Js45uOl&#13;
+E3XIPxhS0vYoICqe0hMsMMfprDCsfaEWqqOlxw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -346,4 +346,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_b8a4c9c6-7d56-4f64-87b6-1735e94512f1" Target="#_0684ba82-bd6b-4d01-8c8b-7d045d3a5d09"><Timestamp>2022-09-30 15:53:01</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_ccfa6371-e318-4b49-a7cd-bbd6994226a1" Target="#_bd8ad1cd-8e09-4e6c-a25d-1ba56e6e149f"><Timestamp>2022-11-09 10:05:34</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>

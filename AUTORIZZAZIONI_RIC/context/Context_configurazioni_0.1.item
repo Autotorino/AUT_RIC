@@ -5,7 +5,7 @@
     <contextParameter comment="" name="SIPADX_DB_Port" prompt="SIPADX_DB_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432" xmi:id="_u085S3eBEeuJ-LzHouEb6w"/>
     <contextParameter comment="" name="SIPADX_DB_Database" prompt="SIPADX_DB_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sipadx" xmi:id="_u085THeBEeuJ-LzHouEb6w"/>
     <contextParameter comment="" name="SIPADX_DB_Username" prompt="SIPADX_DB_Username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="userread" xmi:id="_u085TXeBEeuJ-LzHouEb6w"/>
-    <contextParameter comment="" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:T13/20mOW1/DEcQj97VY+08YNX8UxOaKYKDCUsGp8v02ehio" xmi:id="_u085TneBEeuJ-LzHouEb6w"/>
+    <contextParameter comment="" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:Giqo9P4yrkbdfOFDHxUAiAVZxpC/1zYisuq4guGN3QzqDOPV" xmi:id="_u085TneBEeuJ-LzHouEb6w"/>
     <contextParameter comment="" name="SIPADX_DB_Schema" prompt="SIPADX_DB_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="public" xmi:id="_u085T3eBEeuJ-LzHouEb6w"/>
     <contextParameter comment="" name="SMTP_DEST" prompt="SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="supportobi@autotorino.it" xmi:id="_u085UHeBEeuJ-LzHouEb6w"/>
     <contextParameter comment="" name="SMTP_HOST" prompt="SMTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="smtp.autotorino.local" xmi:id="_u085UXeBEeuJ-LzHouEb6w"/>
@@ -13,7 +13,7 @@
     <contextParameter comment="" name="MAIL_NOTIFY" prompt="MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="true" xmi:id="_u085U3eBEeuJ-LzHouEb6w"/>
   </talendfile:ContextType>
   <talendfile:ContextType confirmationNeeded="false" name="dev" xmi:id="_u085MHeBEeuJ-LzHouEb6w">
-    <contextParameter comment="" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="\\srvdati\dati\CONDIVISI\Pontiggia\Autorizzazioni_ric\Dati" xmi:id="_u085MXeBEeuJ-LzHouEb6w"/>
+    <contextParameter comment="" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="\\\\srvdati\\dati\\CONDIVISI\\Pontiggia\\Autorizzazioni_ric\\Dati" xmi:id="_u085MXeBEeuJ-LzHouEb6w"/>
     <contextParameter comment="" name="SIPADX_DB_Server" prompt="SIPADX_DB_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="999.99.999.99" xmi:id="_u085MneBEeuJ-LzHouEb6w"/>
     <contextParameter comment="" name="SIPADX_DB_Port" prompt="SIPADX_DB_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432" xmi:id="_u085M3eBEeuJ-LzHouEb6w"/>
     <contextParameter comment="" name="SIPADX_DB_Database" prompt="SIPADX_DB_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sipadx" xmi:id="_u085NHeBEeuJ-LzHouEb6w"/>
@@ -26,25 +26,25 @@
     <contextParameter comment="" name="MAIL_NOTIFY" prompt="MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="true" xmi:id="_u085O3eBEeuJ-LzHouEb6w"/>
   </talendfile:ContextType>
   <talendfile:ContextType confirmationNeeded="false" name="prod" xmi:id="_LjujAEDXEe2iW5HDaFEvEw">
-    <contextParameter comment="" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="\\srvdati\dati\CONDIVISI\Pontiggia\Autorizzazioni_ric\Dati" xmi:id="_LjujAUDXEe2iW5HDaFEvEw"/>
+    <contextParameter comment="" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="\\\\srvdati\\dati\\CONDIVISI\\Pontiggia\\Autorizzazioni_ric\\Dati" xmi:id="_LjujAUDXEe2iW5HDaFEvEw"/>
     <contextParameter comment="" name="SIPADX_DB_Server" prompt="SIPADX_DB_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.168.1.113" xmi:id="_LjujAkDXEe2iW5HDaFEvEw"/>
     <contextParameter comment="" name="SIPADX_DB_Port" prompt="SIPADX_DB_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432" xmi:id="_LjujA0DXEe2iW5HDaFEvEw"/>
     <contextParameter comment="" name="SIPADX_DB_Database" prompt="SIPADX_DB_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sipadx" xmi:id="_LjujBEDXEe2iW5HDaFEvEw"/>
     <contextParameter comment="" name="SIPADX_DB_Username" prompt="SIPADX_DB_Username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="userread" xmi:id="_LjujBUDXEe2iW5HDaFEvEw"/>
-    <contextParameter comment="" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:nQpOMxsewZqgC66vxuqFVCL2azzBzDRYHO4d/gNF97T/jVWh" xmi:id="_LjujBkDXEe2iW5HDaFEvEw"/>
+    <contextParameter comment="" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:gBamnpH6UlMVBCHtX2Jf2xrD+dpvVYgMUB8WBqvUEd7TVXa0" xmi:id="_LjujBkDXEe2iW5HDaFEvEw"/>
     <contextParameter comment="" name="SIPADX_DB_Schema" prompt="SIPADX_DB_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="public" xmi:id="_LjujB0DXEe2iW5HDaFEvEw"/>
     <contextParameter comment="" name="SMTP_DEST" prompt="SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="supportobi@autotorino.it" xmi:id="_LjujCEDXEe2iW5HDaFEvEw"/>
     <contextParameter comment="" name="SMTP_HOST" prompt="SMTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="smtp.autotorino.local" xmi:id="_LjujCUDXEe2iW5HDaFEvEw"/>
     <contextParameter comment="" name="SMTP_PORT" prompt="SMTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="25" xmi:id="_LjujCkDXEe2iW5HDaFEvEw"/>
     <contextParameter comment="" name="MAIL_NOTIFY" prompt="MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="true" xmi:id="_LjujC0DXEe2iW5HDaFEvEw"/>
   </talendfile:ContextType>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_a3f9b907-6ac5-4b4b-8ef5-d057d5e1ed70"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>h31oLb1rKUXaNKNCYVFK+LxRMrb5hU4BL9YpyUv3AsxT/k6Re+hkB8mOZ7yn5W69ajx4mV/AS/KT&#13;
-blV88jFx0A==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_30eec759-fca3-416a-8826-8edb7646af7f"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ghkzauBNwfwfw0Qfo5KN5wNaLcc+GQ6J/sLYOiRpFvceGS1YorHLzcMyhXnvHJ5tVN8ozJZBp7Ck&#13;
-OTyT+xK6OA==</DigestValue></Reference></SignedInfo><SignatureValue>PshQYz58Ag/cntesJzLOOiP0mCKRTDQCl3wEW6vfxJiyl2RWlhs4TCAr6oCYDH6kUm69Ze9Njpdk&#13;
-F0afzPCJJTk3YT61Pz2lgXKjxJTh6bwm6HT3ZjgenyAp0hZxoZLnXiWiaZLsb5ld3iZxIZhV+LQd&#13;
-GJvsn8eDRAZyXquMF8rznQgskz/oXvCXQvC0ZuJ1aAQ2kUWZOiA6poiRo7cPy5UkHOrmjBYJ6s0t&#13;
-V+fPo90Nki6XFh8cit6OewTPFJ0SXuapmOQ62F+lOvV2BNqC+Fkh/u7m3axpUBcXFzlwWMhJitOS&#13;
-3GJdRCSvY8QDFQS3WoeQ/Am8vjQIVjoFWLrflQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_6672a915-883f-4777-8105-c00f74391206"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>twp+k4Qj5lZ3SThpPEYQc2QPwkvugv5hW+C/uGvkaIHh8C/7RdbyU/CCy7YqnNYyvinhh8AKhnKC&#13;
+xmVejxxJKQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_40e3faef-006e-457c-a556-9f475cc4b790"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>aBDCtzdiJjptCIxnG2OKUYKPXjLxGoUOsmE27ZHNP2yYsrI4+oItz04IiLaS/+Hnkh/Ce4g7N8Kn&#13;
+zl++s61pog==</DigestValue></Reference></SignedInfo><SignatureValue>Fd32h779DFR550AfhOwfpIL0bwMWlkGl+tE8W2uaANJY3bkJmssJxbcX/mKWHXoCRqNbIfEDoMBM&#13;
+JcFg5/3A5fQFBwgFsOp9GENCWG/yKR0ZXlsa79/mXvJ/ghPSzRmKvTNb0PGqGVefsKfII2m6w0Hd&#13;
+KB+J5gBZyzJYXU62vp72RQJJP0Rkic16PrDZFC8ZemQy6Hmo+Ws21IivfebbKxDXUJltfxv5gt1n&#13;
+/oxiI0SbNoob9IBhgizC7vLO+ocS0oeQr0sJZVCezV517rbrdrF9P49+I0xFf4DLtzE27VKJ5pUR&#13;
+ceBgmUapy9h+O91ZXbJTwclLcD0pWp2kQBgiMA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -66,4 +66,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_30eec759-fca3-416a-8826-8edb7646af7f" Target="#_a3f9b907-6ac5-4b4b-8ef5-d057d5e1ed70"><Timestamp>2022-09-30 15:47:25</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_40e3faef-006e-457c-a556-9f475cc4b790" Target="#_6672a915-883f-4777-8105-c00f74391206"><Timestamp>2022-11-09 10:05:34</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
